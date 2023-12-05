@@ -3,3 +3,4 @@ This is chat application
 Emoji
 Color
 Action
+Dark Mode
