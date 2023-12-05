@@ -4,3 +4,7 @@ Emoji
 Color
 Action
 Dark Mode
+
+payment
+send
+recieve
